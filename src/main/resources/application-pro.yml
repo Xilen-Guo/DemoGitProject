@@ -1,8 +1,3 @@
 # 指定服务端口
-server:
-  port: 8080
-
-# 指定服务名称(服务之间相互调用的一般依据)
-spring:
-  application:
-    name: sc-config-server
+config:
+  mode: pro

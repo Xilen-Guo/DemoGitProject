@@ -1,6 +1,6 @@
 # 指定服务端口
-server:
-  port: 80
+config:
+  mode: def
 
 # 指定服务名称(服务之间相互调用的一般依据)
 git: 
