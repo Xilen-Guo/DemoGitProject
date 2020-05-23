@@ -1,3 +1,3 @@
 # 指定服务端口
 config:
-  mode: dev
+  mode: dev-ref

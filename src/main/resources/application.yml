@@ -1,6 +1,6 @@
 # 指定服务端口
 config:
-  mode: def
+  mode: def-ref
 
 # 指定服务名称(服务之间相互调用的一般依据)
 git: 
