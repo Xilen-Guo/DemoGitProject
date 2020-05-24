@@ -1,4 +1,4 @@
 mysql: 
   url: 127.0.0.1
-  name: devdb-1
-  pwd: devdb-1
+  name: devdb-2
+  pwd: devdb-2
